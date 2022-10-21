@@ -1,6 +1,6 @@
 # Pixabay Image Gallery - React & Tailwind CSS 
 
-Simple gallery with images (Features: View and Search) from the pixabay API. Tailwind css is built into workflow with postcss and autoprefixer.
+Simple gallery with images (Features: View and Search) using react and fetch data from the pixabay API. Tailwind css is built into workflow with postcss and autoprefixer.
 
 ## Usage
 Add your Pixabay API key to .env (Help: https://pixabay.com/api/docs/)
